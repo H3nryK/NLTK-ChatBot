@@ -1,7 +1,5 @@
 # NLTK ChatBot
 
-![NLTK Logo](https://www.nltk.org/_static/nltk.png)
-
 ## Overview
 
 This is a simple chatbot built using NLTK (Natural Language Toolkit) in Python. The chatbot can engage in basic conversations, respond to greetings, discuss hobbies, and more.
@@ -36,7 +34,7 @@ This is a simple chatbot built using NLTK (Natural Language Toolkit) in Python. 
    ```bash
    python chatbot.py
 
-4. Interact with the chatbot by typing your messages.
+4. Interact with the chatbot by typing your messages on the terminal.
 
 ## Contributing
 
