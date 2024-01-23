@@ -23,20 +23,22 @@ This is a simple chatbot built using NLTK (Natural Language Toolkit) in Python. 
    ```bash
    git clone https://github.com/H3nryK/nltk-chatbot.git
 
+2. Open the project folder
+   
    ```bash
    cd nltk-chatbot
    
-2. Install dependencies
+3. Install dependencies
 
    ```bash
    pip install nltk
 
-3. Run the chatbot
+4. Run the chatbot
 
    ```bash
    python chatbot.py
 
-4. Interact with the chatbot by typing your messages on the terminal.
+5. Interact with the chatbot by typing your messages on the terminal.
 
 ## Contributing
 
