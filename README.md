@@ -21,7 +21,7 @@ This is a simple chatbot built using NLTK (Natural Language Toolkit) in Python. 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/H3nryK/nltk-chatbot.git
+   git clone https://github.com/H3nryK/NLTK-ChatBot.git
 
 2. Open the project folder
    
